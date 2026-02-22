@@ -1,5 +1,5 @@
 const getHome = (req,res)=>{
-    res.send("Hello pizdik");
+    res.send("Hello");
 };
 
 const getHealt=(req,res)=>{
