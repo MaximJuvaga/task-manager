@@ -1,5 +1,5 @@
 const getHome = (req,res)=>{
-    res.send("Hello from task Manager API");
+    res.send("Hello pizdik");
 };
 
 const getHealt=(req,res)=>{
